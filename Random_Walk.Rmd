@@ -3,14 +3,14 @@ title: "Random_Walk"
 output: pdf_document
 ---
 
-```{r setup, include=FALSE}
+```{r}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
 ## Code
 
-```{r cars}
+```{r}
 x <- c(0)
 y <- c(0)
 for( i in c(1:100)){
@@ -39,7 +39,7 @@ str(y)
 
 Random walk result : 
 
-```{r pressure, echo=FALSE}
+```{r}
 plot(x,y)
 ```
 
