@@ -7,9 +7,7 @@ output: pdf_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-
 ## Code
-
 ```{r}
 x <- c(0)
 y <- c(0)
@@ -25,21 +23,16 @@ for( i in c(1:100)){
     y <- c( y, y[i]+(-1)^s )
   }
 }
-
 ```
 
 ## Data
-
 ```{r}
 str(x)
 str(y)
 ```
 
 ## Plots
-
 Random walk result : 
-
 ```{r}
 plot(x,y)
 ```
-
