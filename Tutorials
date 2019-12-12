@@ -12,7 +12,7 @@ How?
 
 Problem 2.
 Make a code that find the answer for n*n magic square.
-Magic square is the sum of row, column, diagonal is all same.
+Magic square is the sum of row, column, diagonal is all same without no multiple usage of integer from [1,n^2].
 For exmaple, 3*3 magic square is
 
 492
