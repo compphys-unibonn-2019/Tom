@@ -7,7 +7,7 @@ Then you put only fox and chicken together, fox eat chicken
 And suppose you can put only one things in boat with you.
 
 Our purpose is move all three to the other side of the river.
-How?
+How? Can we solve this problem by the simulated-anealing technique?
 
 
 Problem 2.
@@ -23,5 +23,5 @@ For exmaple, 3*3 magic square is
 Problem 3.
 
 Can we calculate the area of Koch snowflake(https://en.wikipedia.org/wiki/Koch_snowflake)?
-How?
+How? Can we solve this problem by Monte-Carlo simulation?
 
