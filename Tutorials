@@ -9,3 +9,12 @@ And suppose you can put only one things in boat with you.
 Our purpose is move all three to the other side of the river.
 How?
 
+
+Problem 2.
+Make a code that find the answer for n*n magic square.
+Magic square is the sum of row, column, diagonal is all same.
+For exmaple, 3*3 magic square is
+
+492
+257
+816
