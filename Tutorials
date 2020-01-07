@@ -1,0 +1,26 @@
+Problem 1.
+
+There is fox, chicken, grain, and you beside the river with one boat.
+When you put only chicken and grain together, chicken eat grain.
+Then you put only fox and chicken together, fox eat chicken
+And suppose you can put only one things in boat with you.
+
+Our purpose is move all three to the other side of the river.
+How? Can we solve this problem by the simulated-anealing technique?
+
+
+Problem 2.
+Make a code that find the answer for n*n magic square.
+Magic square is the sum of row, column, diagonal is all same without no multiple usage of integer from [1,n^2].
+For exmaple, 3*3 magic square is
+
+492
+257
+816
+
+
+Problem 3.
+
+Can we calculate the area of Koch snowflake(https://en.wikipedia.org/wiki/Koch_snowflake)?
+How? Can we solve this problem by Monte-Carlo simulation?
+
